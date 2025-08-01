@@ -1,0 +1,4 @@
+# Ignore local environments
+.venv/
+**/.venv/
+external_module/**/.venv/
