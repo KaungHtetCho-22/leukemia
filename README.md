@@ -5,6 +5,7 @@ This repository contains training pipelines and experiments for **leukemia cell 
 
 - **ViT-MAE**: Masked Autoencoders trained from scratch or initialized from ImageNet-1K.
 - **DINO**: Self-supervised learning using Facebook AI’s DINO method.
+- **Future experiments**: continute to train.
 
 > Built upon official repositories via Git submodules and customized for leukemia-specific datasets.
 
@@ -12,7 +13,7 @@ This repository contains training pipelines and experiments for **leukemia cell 
 
 ## Project Structure
 ---
- 
+.
 leukemia/
 │
 ├── datasets/ image dataset
@@ -26,7 +27,6 @@ leukemia/
 ├── scripts/ # Helper scripts (to be added later)
 │
 └── README.md 
-
 
 
 ---
