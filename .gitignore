@@ -2,3 +2,4 @@
 .venv/
 **/.venv/
 external_module/**/.venv/
+external_module/dino/dino_outputs_leumkemia_patch8/*

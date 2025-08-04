@@ -1,3 +1,9 @@
 [submodule "external_module/transformers"]
 	path = external_module/transformers
 	url = https://github.com/KaungHtetCho-22/transformers-hf.git
+[submodule "external_module/dino-fb"]
+	path = external_module/dino-fb
+	url = https://github.com/KaungHtetCho-22/dino-fb.git
+[submodule "external_module/dino"]
+	path = external_module/dino
+	url = https://github.com/KaungHtetCho-22/dino-fb.git
