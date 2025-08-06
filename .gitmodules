@@ -7,3 +7,6 @@
 [submodule "external_module/dino"]
 	path = external_module/dino
 	url = https://github.com/KaungHtetCho-22/dino-fb.git
+[submodule "external_module/detectron2-fb"]
+	path = external_module/detectron2-fb
+	url = git@github.com:KaungHtetCho-22/detectron2-fb.git
